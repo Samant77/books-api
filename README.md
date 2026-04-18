@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Books API 
 
 ## 🚀 Project Overview
@@ -127,3 +128,7 @@ PUT `/books/{id}`
 DELETE `/books/{id}`
 
 ---
+=======
+# books-api
+Laravel JWT Books API
+>>>>>>> aa017d73a12dde0e6f5e7dde8f216785bd444a50
