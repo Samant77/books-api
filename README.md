@@ -15,7 +15,7 @@ It includes:
 ## ⚙️ Installation Steps
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/Samant77/books-api.git>
 cd books-api
 
 composer install
